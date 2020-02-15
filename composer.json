@@ -5,7 +5,8 @@
   "require": {
      "php": "^7.2"
   },
-  "license": "MIT",
+  "license": "otus",
+  "minimum-stability": "dev"
   "authors": [
     {
       "name": "Roman Khalecky",
