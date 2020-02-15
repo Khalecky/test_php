@@ -5,7 +5,7 @@
   "require": {
      "php": "^7.2"
   },
-  "license": "otus",
+  "license": "MIT",
   "minimum-stability": "dev",
   "authors": [
     {
